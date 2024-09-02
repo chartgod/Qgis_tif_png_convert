@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🎨 QGIS TIFF to PNG Converter 🗺️
 
 Welcome to the **QGIS TIFF to PNG Converter**! This script is your go-to tool for converting TIFF files into PNG format with the power of QGIS and PyQt5. Whether you're working with satellite imagery or any other raster data, this script will streamline your workflow. 🚀
