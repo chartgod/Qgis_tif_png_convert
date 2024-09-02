@@ -9,8 +9,8 @@ from PyQt5.QtGui import QImage, QPainter, QColor
 from PyQt5.QtCore import QSize
 
 # 입력 및 출력 디렉터리 설정
-input_dir = r"D:\국토위성\tiff데이터셋"
-output_dir = r"D:\국토위성\tiff데이터셋\PNG변환"
+input_dir = r"D:\dir"
+output_dir = r"D:\dir"
 
 # 출력 폴더가 없으면 생성
 if not os.path.exists(output_dir):
